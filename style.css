@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(255, 255, 255);
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h1 {
+    color: #333;
+}
+p {
+    font-size: 18px;
+    color: #666;
+}
+a {
+    display: block;
+    color: brown;
+    text-decoration: none;
+    font-weight: bold;
+}
